@@ -1,7 +1,8 @@
 # PortafolioProyectos
 
 # INTEGRANTES
--Martin Jimenez 
+-Martin Jimenez
+
 -Ismael Novillo 
 # PROYECTOS
 Aplicación de hoja de vida (CV) + firebase hosting+infinite scrolling. (Hecho en clase)
