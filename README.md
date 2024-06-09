@@ -2,7 +2,7 @@
 
 # INTEGRANTES
 -Martin Jimenez
-
+![Martin Jimenez](https://github.com/IsmaelNovillo/PortafolioProyectos/blob/main/WhatsApp%20Image%202024-06-09%20at%206.52.28%20PM.jpeg)
 -Ismael Novillo 
 
 ![Ismael Novillo](https://github.com/IsmaelNovillo/PortafolioProyectos/blob/main/Captura%20de%20pantalla%202024-05-05%20205316.jpg)
