@@ -26,8 +26,12 @@ App para subir archivos con Storage. (Hecho en clase)
 
 App para chatear con Real-time-database. (Hecho en clase)
 
+- https://github.com/IsmaelNovillo/ChatRealtime.git 
+
 GPS con guardado de datos en real-time-database o firestore. (consulta)
 
 - https://github.com/martinizin/GeolocalizacionFirebase.git
 
 Mostrar ubicación en Google maps o en OpenStreetMap. (consulta)
+
+- https://github.com/IsmaelNovillo/UbiGoogle.git 
