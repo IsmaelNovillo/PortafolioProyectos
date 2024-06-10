@@ -11,12 +11,19 @@ Aplicación de hoja de vida (CV) + firebase hosting+infinite scrolling. (Hecho e
 
 Aplicación para tomar fotos. (Hecho en clase)
 
+- https://github.com/martinizin/photo-gallery.git
+
 Login con firebase authentication.  (Hecho en clase)
 
 App para subir archivos con Storage. (Hecho en clase)
 
+- https://github.com/martinizin/FirebaseStorage.git
+
+
 App para chatear con Real-time-database. (Hecho en clase)
 
 GPS con guardado de datos en real-time-database o firestore. (consulta)
+
+- https://github.com/martinizin/GeolocalizacionFirebase.git
 
 Mostrar ubicación en Google maps o en OpenStreetMap. (consulta)
