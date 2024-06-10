@@ -9,6 +9,8 @@
 # PROYECTOS
 Aplicación de hoja de vida (CV) + firebase hosting+infinite scrolling. (Hecho en clase)
 
+- https://github.com/martinizin/CVFirebaseHosting.git
+  
 Aplicación para tomar fotos. (Hecho en clase)
 
 - https://github.com/martinizin/photo-gallery.git
